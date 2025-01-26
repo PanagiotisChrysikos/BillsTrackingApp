@@ -1,0 +1,34 @@
+.bill-preview a {
+    text-decoration: none;
+  }
+  
+
+  .bill-details h2 {
+    font-size: 20px;
+    color: rgb(91, 203, 74);
+    margin-bottom: 10px;
+    text-align: center;
+  }
+
+  .bill-details div {
+    margin: 20px 0;
+  }
+
+  .bill-details button {
+    background: rgb(91, 203, 74);
+    color: #fff;
+    border: 0;
+    padding: 8px;
+    border-radius: 8px;
+    cursor: pointer;
+
+  }
+
+  .bill-details article{
+    align-items: center;
+  }
+
+  
+
+  
+  
